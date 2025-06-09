@@ -1,6 +1,6 @@
 ## Hi, I'm Teerapat Boriboon
 **🎓 Fresh Computer Science Graduate**
-- Looking for opportunities in **Frontend Development** and **Full-Stack Development**
+- Looking for opportunities in **Backend Development** and **Full-Stack Development**
 - I’m learning JavaScript and React.js at the moment
 - How to reach me: teerapat.bor@gmail.com
 
