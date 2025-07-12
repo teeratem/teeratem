@@ -2,7 +2,6 @@
 **🎓 Fresh Computer Science Graduate**
 - Looking for opportunities in **Backend Development** and **Full-Stack Development**
 - I’m learning JavaScript and React.js at the moment
-- How to reach me: teerapat.bor@gmail.com
 
 ## Tech Stack
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
