@@ -1,7 +1,7 @@
 ## Hi, I'm Teerapat Boriboon
 **🎓 Fresh Computer Science Graduate**
 - Looking for opportunities in **Backend Development** and **Full-Stack Development**
-- I’m learning Next.js and React.js at the moment
+- I’m learning TypeScript and React.js at the moment
 
 ## Tech Stack
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
