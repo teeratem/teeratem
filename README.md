@@ -1,6 +1,6 @@
 ## Hi, I'm Teerapat Boriboon
 **🎓 System Engineer**
-- I’m learning Lua at the moment
+- I’m learning Rust at the moment
 
 ## Tech Stack
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
